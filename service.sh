@@ -1,4 +1,4 @@
-echo "DEVA HACKER"
+#bin/bash
 /etc/init.d/bluetooth restart
 /etc/init.d/network-manager restart
 /etc/init.d/postgresql start
