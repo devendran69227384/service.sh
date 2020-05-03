@@ -5,3 +5,4 @@
 /etc/init.d/apache2 start
 /etc/init.d/ssh start
 /etc/init.d/vsftpd start
+/etc/init.d/tor start
